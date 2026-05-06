@@ -1,5 +1,9 @@
 # Assembler and Simulator for CISC Processor (16-bit)
 
+<img width="1497" height="1327" alt="image" src="https://github.com/user-attachments/assets/e628ea5e-8ebc-4b6d-8e07-eb8f532f86bb" />
+
+
+
 This project represents a complete didactic development environment (IDE) that includes a **Assembler (Two-Pass Assembler)** and an **Emulator (Virtual Machine)** with graphical visualization of the data flow (Datapath), developed in Python.
 
 The project is based on the architecture of a CISC microprogrammed processor, with dedicated buses: SBUS, DBUS and RBUS.
@@ -38,4 +42,4 @@ Open a terminal or command line in the project folder and run:
 ```bash
 python main.py
 
-<img width="1497" height="1326" alt="image" src="https://github.com/user-attachments/assets/9226d7ab-7f0e-4b48-8a2a-9f45ddd8280d" />
+
